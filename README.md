@@ -35,7 +35,7 @@ Durante o bootcamp, também tenho utilizado ferramentas complementares oferecida
 📦 santander-bootcamp-2025/
 ├── 1-Fundamentos da Linguagem(exercício)
 ├── 2-Estrutura de Controle Java(exercício)
-├── ContaBanco (Projeto/Desafio)
+├── ContaBanco (Entrega de Projeto)
 ├── Exemplos_de_try_catch (Código de Aula)
 └── README.md
 ```
