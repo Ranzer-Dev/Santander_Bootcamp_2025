@@ -31,11 +31,12 @@ Durante o bootcamp, também tenho utilizado ferramentas complementares oferecida
 ---
 
 ## 📁 Organização do repositório
-
 ```bash
 📦 santander-bootcamp-2025/
-├── ContaBanco
-├── ExercicioTiposPrimitivos
+├── 1-Fundamentos da Linguagem(exercício)
+├── 2-Estrutura de Controle Java(exercício)
+├── ContaBanco (Projeto/Desafio)
+├── Exemplos_de_try_catch (Código de Aula)
 └── README.md
 ```
 
